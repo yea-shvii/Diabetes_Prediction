@@ -7,7 +7,7 @@ A end-to-end machine learning pipeline that trains a neural network on synthetic
 ## Project Structure
 
 ```
-diabetes_pred/
+Diabetes_Prediction/
 │
 ├── diabetes_pipeline.ipynb       # Main notebook — data generation, training, saving
 ├── test_on_real_data.ipynb       # Inference notebook — loads model, tests on Kaggle data
